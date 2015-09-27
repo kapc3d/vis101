@@ -1,8 +1,8 @@
-# CS 171 Homework 0
+# Vis 101 Homework 0
 
-**Due: Friday, February 6th, 11:59 pm. Value: 2%**
+**Due: Friday, Oct 9, 23:59 MSK. Value: 2%**
 
-Welcome to CS171.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  This homework will not be graded **except** for Problem 2. In Problem 2 you set up git and github for this course, which is essential before starting with HW 1.
+Welcome to Vis101.  In this class, we will be using a variety of tools that will require some initial configuration. To ensure everything goes smoothly moving forward, we will setup the majority of those tools in this homework.  This homework will not be graded **except** for Problem 2. In Problem 2 you set up git and github for this course, which is essential before starting with HW 1.
 
 ## Problem 1 - Class Survey, Signups, and Introduction
 
@@ -10,25 +10,21 @@ Welcome to CS171.  In this class, we will be using a variety of tools that will 
 
 You'll be using git and [GitHub](http://github.com) to manage homework assignments and projects.
 
-Sign up for a github account (if you don't already have one) and request a free account upgrade [on this page](https://github.com/edu). You'll need to verify ownership of an **.edu e-mail address** (Harvard, MIT or any other) if you didn't sign up with your .edu account. You can use this suggested text to request the account upgrade:
+Sign up for a github account (if you don't already have one) and request a free account upgrade [on this page](https://github.com/edu). You'll need to verify ownership of an **@niuitmo.ru e-mail address**  if you didn't sign up with your @niuitmo.ru account. You can use this suggested text to request the account upgrade:
 
->I will be using my educational micro account for CS 171 - visualization at Harvard (http://cs171.org). We will use github and github pages for the code in our homework assignments and for our final projects. Thank you!
+>I will be using my educational micro account for educational purposes at our Visualization course at ITMO University. We will use github and github pages for the code in our homework assignments and for our final projects. Thank you!
 
 This educational micro-plan will enable you to create five private repositories. We will need two for the class. If you are already using private repositories at github under your micro plan for other projects, and you cannot free-up your quota, please contact the staff well in advance of the deadline.
 
-**It is important that you complete this step quickly, as it may take a while for github to provide you with the repositories. Make sure to request a .edu e-mail address if you don't already have one (e.g., because you are registered via DCE).**
+**It is important that you complete this step quickly, as it may take a while for github to provide you with the repositories. Make sure to request a @niuitmo.ru e-mail address if you don't already have one (you have to be already registered via ISU).**
 
 ### Class Survey
-Please complete the [course survey located here](https://docs.google.com/forms/d/1HEZUrfyjhnXqO8qpKkwyZkdQZN4WTNSUKIDU4g2bz1k/viewform?usp=send_form). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
+Please complete the [course survey located here](https://docs.google.com/forms/d/1m-ryd-4z4q-G95ULHcilYmC0rHRAJUH8cvidpAn7z5A/viewform). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
 
-### Piazza
-Go to [Piazza](https://piazza.com/harvard/cs171) and sign up for the class using your Harvard e-mail address. If you don't (yet) have a Harvard e-mail address, send an e-mail to [staff@cs171.org](mailto:staff@cs171.org) with the subject "Piazza Access: your@e.mail".  
+### Moodle
+Go to [Moodle](http://moodle.escience.ifmo.ru/course/view.php?id=28) and sign up for the class using your account. If you don't (yet) have a e-Science Moodle account, send an e-mail to [normokontroller.nii.nkt.itmo@gmail.com](mailto:normokontroller.nii.nkt.itmo@gmail.com ) with the subject "Moodle Access: your@e.mail".
 
-We will use Piazza as a forum for discussion, to find team members, to arrange appointments, and to ask questions. Piazza should be your primary form of communication with the staff. Use the staff e-mail only for individual requests, e.g., to excuse yourself from a mandatory guest lecture. All information such as new homework assignments will be linked from the website but announced on Piazza.
-
-### Introduction
-
-Once you are signed up to the Piazza course forum, introduce yourself to your classmates and course staff, as a follow-up [to the introduction thread](https://piazza.com/class/hzygu2uzmp4h7?cid=6). Include your name/nickname, your affiliation, why you are taking this course, and tell us something interesting about yourself (e.g., an unusual hobby, past travels, or a cool project you did, etc.). Also tell us whether you have experience with visualization.
+We will use Moodle as a forum for discussion, to find team members, to arrange appointments, and to ask questions. Piazza should be your primary form of communication with the staff. Use the staff e-mail only for individual requests, e.g., to excuse yourself from a mandatory guest lecture. All information such as new homework assignments will be linked from the website but announced on Moodle.
 
 ## Problem 2 - Introduction to Git
 
