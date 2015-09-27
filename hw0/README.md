@@ -22,7 +22,7 @@ This educational micro-plan will enable you to create five private repositories.
 Please complete the [course survey located here](https://docs.google.com/forms/d/1m-ryd-4z4q-G95ULHcilYmC0rHRAJUH8cvidpAn7z5A/viewform). It should only take a few moments of your time. It will ask you for your **github user name**, so you must go trough the sign-up process first. It is imperative that you fill out the survey on time.
 
 ### Moodle
-Go to [Moodle](http://moodle.escience.ifmo.ru/course/view.php?id=28) and sign up for the class using your account. If you don't (yet) have a e-Science Moodle account, send an e-mail to [normokontroller.nii.nkt.itmo@gmail.com](mailto:normokontroller.nii.nkt.itmo@gmail.com ) with the subject "Moodle Access: your@e.mail".
+Go to [Moodle](http://moodle.escience.ifmo.ru/course/view.php?id=28) and sign up for the class using your account. If you don't (yet) have a e-Science Moodle account, send an e-mail to [Andrey Gushchin](mailto:normokontroller.nii.nkt.itmo@gmail.com ) with the subject "Moodle Access Problems: your@e.mail".
 
 We will use Moodle as a forum for discussion, to find team members, to arrange appointments, and to ask questions. Piazza should be your primary form of communication with the staff. Use the staff e-mail only for individual requests, e.g., to excuse yourself from a mandatory guest lecture. All information such as new homework assignments will be linked from the website but announced on Moodle.
 
