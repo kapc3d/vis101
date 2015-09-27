@@ -1,7 +1,7 @@
 Section 1
 ===
 
-Welcome to CS171. Let's get you set up for submitting homework assignments. We'll also quickly cover some basic knowledge that should already feel familiar to you.
+Welcome to Vis101. Let's get you set up for submitting homework assignments. We'll also quickly cover some basic knowledge that should already feel familiar to you.
 
 ----
 **Setup**
@@ -41,14 +41,14 @@ What we going to do as overview:
 Run the following:
 
 ```
-git clone https://github.com/CS171/2015-cs171-homework.git -o homework
+git clone https://github.com/kapc3d/vis101.git -o homework
 ```
 
-Then `cd` into the newly created `2015-cs171-homework/` directory.  You can change the directory name if you want.
+Then `cd` into the newly created `vis101/` directory.  You can change the directory name if you want.
 
 *open a browser window*
 
-Create a new repository on the Github website following the `cs171-hw-lastname-firstname` naming convention. **Use all lowercase for your repository name. It is important that your repository be named exactly as above so that we can access it for grading.**
+Create a new repository on the Github website following the `vis101-hw-lastname-firstname` naming convention. **Use all lowercase for your repository name. It is important that your repository be named exactly as above so that we can access it for grading.**
 
 Ensure your new repository is private and don't click the option to "Initialize the repository with a README".
 
@@ -60,7 +60,7 @@ Run the two commands described on GitHub under the heading "Push an existing rep
 
 ![Setting up your Github repository](images/commands.png?raw=true)
 
-On GitHub, go to the repository settings and navigate to the Collaborators page. Add [`cs171tf`](https://github.com/cs171tf) as a collaborator to your private repository.
+On GitHub, go to the repository settings and navigate to the Collaborators page. Add [`kapc3d`](https://github.com/kapc3d) as a collaborator to your private repository.
 
 Now your homework repository is all set!
 
@@ -84,11 +84,11 @@ You should do this frequently: as often as you have an incremental, standalone i
 
 We will automatically copy your repository after each homework deadline. **You do not need to do anything else to submit your work (but make sure that you have pushed the latest version of your homework).** We will count the time of your last commit to the Github repository as your submission time.
 
-Refer to the [CS 171 web page](http://www.cs171.org/2015/homework/) for more information on how to submit your homework.
+Refer to the [Vis 101 web page](http://kapc3d.github.io/homework.html) for more information on how to submit your homework.
 
 ### Getting new homework assignments
 
-When we release a new assignment we will simply add it to the [homework github repository](https://github.com/CS171/2015-cs171-homework).
+When we release a new assignment we will simply add it to the [homework github repository](https://github.com/kapc3d/vis101).
 
 To get the latest homework assignments and potential updates or corrections to the assignment, run the following.
 
@@ -132,11 +132,11 @@ The DOM is the hierarchical structure used for representing elements in the brow
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>CS171 Section 1</title>
+    <title>Vis101 Section 1</title>
     <script src="http://d3js.org/d3.v3.min.js"></script>
   </head>
   <body>
-    <h1>Welcome to CS171</h1>
+    <h1>Welcome to Vis101</h1>
     <p>Data visualization</p>
     <svg></svg>
   </body>
@@ -185,7 +185,7 @@ Sometimes we want to target one particular element — a particular `p`, not all
 
 ```html
 ...
-    <h1>Welcome to CS171</h1>
+    <h1>Welcome to Vis101</h1>
     <p id="subheading">Data visualization</p>
 ...
 ```
